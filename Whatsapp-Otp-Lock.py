@@ -1,7 +1,7 @@
 import requests 
 import os
 import time
-from rich import print
+pip install Rich
 
 # Banner function with animated colorful text effect
 def otp_lock_banner():
